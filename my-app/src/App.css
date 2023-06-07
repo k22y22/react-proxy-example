@@ -173,3 +173,16 @@ footer {
   background-color: #fff;
   bottom: 0;
 }
+
+.main-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-item-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around
+}
